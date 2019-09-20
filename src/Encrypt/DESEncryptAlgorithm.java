@@ -9,7 +9,7 @@ import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
-import sun.misc.BASE64Encoder;
+import Decoder.BASE64Encoder;
 
 /**
  *
